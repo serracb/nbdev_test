@@ -1,6 +1,7 @@
 {
   "nbdev_test": {
     "Overview": "/",
-    "module name here": "/core"
+    "nbdev tests": "/core",
+    "Title": "/export_test"
   }
 }

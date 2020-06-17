@@ -15,8 +15,10 @@ def multiply(a, b):
 # Cell
 from PIL import Image
 def read_image(path):
+    "Reads the image in path and return a PIL Image object"
     return Image.open(path)
 
 # Cell
 def read_image2(path):
+    "Same as [`read_image`](/core#read_image) but implemented for doing some testing"
     return Image.open(path)
