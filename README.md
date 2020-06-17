@@ -1,4 +1,4 @@
-# Heading
+# Welcome to our docs
 > Summary description here.
 
 
@@ -20,5 +20,16 @@ say_hello("Serra")
 
 
     'Hello Serra!'
+
+
+
+```python
+read_image('image_test.jpeg')
+```
+
+
+
+
+![png](docs/images/output_6_0.png)
 
 
