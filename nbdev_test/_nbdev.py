@@ -8,8 +8,7 @@ index = {"say_hello": "00_core.ipynb",
          "read_image2": "00_core.ipynb",
          "say_goodbye": "01_export_test.ipynb"}
 
-modules = ["core.py",
-           "export_test.py"]
+modules = ["core.py"]
 
 doc_url = "https://serracb.github.io/nbdev_test/"
 
